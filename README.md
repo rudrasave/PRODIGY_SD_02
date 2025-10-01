@@ -3,7 +3,7 @@
 
 An interactive and fun **Number Guessing Game** built using **Python** and **Tkinter**. The game selects a secret number between 1 and 100, and your goal is to guess it in as few attempts as possible. The app gives helpful feedback after each guess and tracks your attempts.
 
-![Game Interface](./game_interface.jpg)
+![Game Interface](./game_interface.jpg)   
 
 ## 🕹️ How to Play
 
